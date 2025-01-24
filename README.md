@@ -1,4 +1,5 @@
 # Global_OCB_rates
+[![DOI](https://zenodo.org/badge/684084947.svg)](https://doi.org/10.5281/zenodo.8425010)
 
 This dataset provides a global database of organic carbon burial rates (gC m⁻² y⁻¹) across diverse aquatic ecosystems, including lakes, reservoirs, floodplains, other wetlands, and coastal ecosystems (seagrasses, saltmarshes, and mangroves).
 
